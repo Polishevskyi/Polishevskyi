@@ -28,7 +28,7 @@ Here are some of the projects you'll find in my repositories:
 - [Project 1](https://github.com/Polishevskyi/Amazon_Project_Selenide_Page_Object): Automated Web Testing with Java, Maven, TestNG, Selenide, Allure, and Jenkins.
 - [Project 2](https://github.com/Polishevskyi/Reqres_Project_RestAssured_Pojo): Automated API Testing with Java, Maven, TestNG, Rest Assured, Allure, and Jenkins.
 - [Project 3](https://github.com/Polishevskyi/HelpDesk_Case_Selenium_Page_Object): Automated Web Testing with Java, Maven, Junit, Selenium.
-- [Project 3](https://github.com/Polishevskyi/Klavogonki_Case_Selenide_Cucumber): Automated Web Testing with Java, Gradle, Junit, Selenide, Cucumber.
+- [Project 4](https://github.com/Polishevskyi/Klavogonki_Case_Selenide_Cucumber): Automated Web Testing with Java, Gradle, Junit, Selenide, Cucumber.
 
 ## Let's Connect!
 
