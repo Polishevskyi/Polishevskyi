@@ -21,6 +21,22 @@ I'm an Automation Quality Assurance Engineer passionate about Java and software 
 - **Test Management Tools:** TestRail, Jira/Asana.
 - **Agile/Scrum Methodology:** Experienced in Agile development practices.
 
+<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/selenium-test-automation.png" alt="selenium-test-automation"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/>
+<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/testrail.png" alt="testrail"/>
+<img width="48" height="48" src="https://img.icons8.com/ios/48/mac-os--v1.png" alt="mac-os--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/android-os.png" alt="android-os"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/plasticine/48/postgreesql.png" alt="postgreesql"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/crashlytics.png" alt="crashlytics"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/android-studio--v3.png" alt="android-studio--v3"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/xcode.png" alt="xcode"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/testflight.png" alt="testflight"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
+
 ## Projects
 
 Here are some of the projects you'll find in my repositories:
