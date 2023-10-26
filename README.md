@@ -34,7 +34,7 @@ Here are some of the projects you'll find in my repositories:
 
 I'm always excited to connect with fellow developers, testers, and technology enthusiasts. You can find me on:
 
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/polishevskyi/)
 - Email: s.polishevskyi@gmail.com
 
 Explore my repositories, ask questions, or collaborate on interesting projects. Thanks for visiting, and I look forward to connecting with you!
