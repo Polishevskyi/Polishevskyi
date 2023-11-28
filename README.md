@@ -14,11 +14,11 @@ I'm an Automation Quality Assurance Engineer passionate about Java and software 
 
 - **Programming Languages:** Java, Kotlin.
 - **Test Automation Frameworks:** Selenium, Selenide, Appium, TestNG, JUnit.
+- **API Testing:** Postman, REST Assured.
 - **Version Control:** Git.
 - **CI/CD:** Jenkins.
-- **BDD:** Cucumber.
-- **API Testing:** Postman, REST Assured.
 - **Test Management Tools:** TestRail, Jira/Asana.
+- **Collaboration and Documentation Tools:** Confluence, Slack.
 - **Agile/Scrum Methodology:** Experienced in Agile development practices.
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/>
