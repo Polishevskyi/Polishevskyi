@@ -13,7 +13,7 @@ I'm an Automation Quality Assurance Engineer passionate about Java and software 
 ## My Skills
 
 - **Programming Languages:** Java, Kotlin.
-- **Test Automation Frameworks:** Selenium, Appium, TestNG, JUnit.
+- **Test Automation Frameworks:** Selenium, Selenide, Appium, TestNG, JUnit.
 - **Version Control:** Git.
 - **CI/CD:** Jenkins.
 - **BDD:** Cucumber.
