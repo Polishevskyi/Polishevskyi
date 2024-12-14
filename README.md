@@ -13,10 +13,10 @@ I'm an Automation Quality Assurance Engineer passionate about Java and software 
 ## My Skills
 
 - **Programming Languages:** Java, Kotlin
-- **Testing Tools:** Selenium WebDriver, Selenide, Appium, TestNG, JUnit
+- **Testing Tools:** Appium, Selenium WebDriver, Selenide, TestNG, JUnit
 - **API Testing:** Postman, REST Assured
 - **Version Control:** Git
-- **CI/CD:** Jenkins
+- **CI/CD:** Jenkins, GitHub Actions
 - **Test Management Tools:** TestRail, Jira/Asana
 - **Collaboration and Documentation Tools:** Confluence, Slack
 - **Agile/Scrum Methodology:** Experienced in Agile development practices
@@ -40,8 +40,8 @@ I'm an Automation Quality Assurance Engineer passionate about Java and software 
 
 Here are some of the projects you'll find in my repositories:
 
-- [Project 1](https://github.com/Polishevskyi/Amazon_Project_Selenide_Page_Object): WEB Testing: Java, Maven, TestNG, **Selenide**, Allure, and Jenkins.
-- [Project 2](https://github.com/Polishevskyi/Reqres_Project_RestAssured_Pojo): API Testing: Java, Maven, TestNG, **Rest Assured**, Allure, and Jenkins.
+- [Project 1](https://github.com/Polishevskyi/kotlin_mobile_polishevskyi_automatization): Mobile Testing: Kotlin, Maven, TestNG, **Appium**, Selenium, Javafaker, Allure.
+- [Project 2](https://github.com/Polishevskyi/polishevskyi_automatization): WEB + API Testing: Java, Gradle, TestNG, **Selenide**, **Rest-Assured**, Webdrivermanager, Javafaker, Allure
 - [Project 3](https://github.com/Polishevskyi/HelpDesk_Case_Selenium_Page_Object): WEB Testing: Java, Maven, Junit, **Selenium**.
 - [Project 4](https://github.com/Polishevskyi/Klavogonki_Case_Selenide_Cucumber): WEB Testing: Java, Gradle, Junit, Selenide, **Cucumber**.
 
