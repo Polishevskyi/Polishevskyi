@@ -1,6 +1,8 @@
 # Hello, I'm Serhii Polisheskyi! 👋
 
-I'm an Automation Quality Assurance Engineer passionate about Java and software testing. I'm dedicated to ensuring the quality and reliability of software through automation. Welcome to my GitHub profile!
+With over 4 years in IT, I have built numerous QA Automation systems from scratch across mobile and web platforms using Java, Kotlin, Swift, and JavaScript. 
+
+My two main superpowers are a focus on the profitability of automation for businesses and building automated quality control systems leveraging deep QA Ops knowledge. 
 
 ## About Me
 
@@ -11,39 +13,46 @@ I'm an Automation Quality Assurance Engineer passionate about Java and software 
 - 💼 Currently working as a QA Engineer, ensuring top-notch quality in every release.
 
 ## My Skills
+- **Main Languages:**  Java, Kotlin, JavaScript, Swift
+- **Test Frameworks:**   TestNG, JUnit5, Jest, Cucumber, Allure
+- **UI Frameworks:**  Selenium (Selenide), Playwright
+- **API Frameworks:**  REST Assured
+- **Mobile Frameworks:**  Appium, Detox, Espresso, XCUITest
+- **Databases:**  PostgreSQL, SQL
+- **DevOps:**  Docker, GitHub Actions, GitLab CI, Jenkins, Selenoid 
+- **QA Tools:**  issue trackers, all TMS, Postman, Swagger, Charles, Burp Suite
 
-- **Programming Languages:** Java, Kotlin
-- **Testing Tools:** Appium, Selenium WebDriver, Selenide, TestNG, JUnit
-- **API Testing:** Postman, REST Assured
-- **Version Control:** Git
-- **CI/CD:** Jenkins, GitHub Actions
-- **Test Management Tools:** TestRail, Jira/Asana
-- **Collaboration and Documentation Tools:** Confluence, Slack
-- **Agile/Scrum Methodology:** Experienced in Agile development practices
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/selenium-test-automation.png" alt="selenium-test-automation"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/>
-<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/testrail.png" alt="testrail"/>
-<img width="48" height="48" src="https://img.icons8.com/ios/48/mac-os--v1.png" alt="mac-os--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/android-os.png" alt="android-os"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/plasticine/48/postgreesql.png" alt="postgreesql"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/android-studio--v3.png" alt="android-studio--v3"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/xcode.png" alt="xcode"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/testflight.png" alt="testflight"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
+<div align="center">
+
+<img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" />
+<img alt="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="48" />
+<img alt="JUnit" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" height="48" />
+<img alt="Selenium" src="https://www.selenium.dev/images/selenium_logo_square_green.png" height="48" />
+<img alt="Rest Assured" src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" height="48" />
+<img alt="Lombok" src="https://avatars.githubusercontent.com/u/45949248?s=200&v=4" height="48" />
+<img alt="Swagger" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="48" />
+<img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" />
+<img alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="48" />
+<img alt="Helm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="48" />
+<img alt="Prometheus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="48" />
+<img alt="Grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="48" />
+<img alt="Elasticsearch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="48" />
+<img alt="Kibana" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" height="48" />
+<img alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="48" />
+<img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" />
+<img alt="Allure" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" height="48" />
+<img alt="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="48" />
+
+</div>
 
 ## Projects
 
 Here are some of the projects you'll find in my repositories:
 
-- [Project 1](https://github.com/Polishevskyi/kotlin_mobile_polishevskyi_automatization): Mobile Testing: Kotlin, Maven, TestNG, **Appium**, Selenium, Javafaker, Allure.
-- [Project 2](https://github.com/Polishevskyi/polishevskyi_automatization): WEB + API Testing: Java, Gradle, TestNG, **Selenide**, **Rest-Assured**, Webdrivermanager, Javafaker, Allure
-- [Project 3](https://github.com/Polishevskyi/HelpDesk_Case_Selenium_Page_Object): WEB Testing: Java, Maven, Junit, **Selenium**.
-- [Project 4](https://github.com/Polishevskyi/Klavogonki_Case_Selenide_Cucumber): WEB Testing: Java, Gradle, Junit, Selenide, **Cucumber**.
+- [Project 1](https://github.com/Polishevskyi/nbank): WEB + API Testing: Java, Maven, JUnit 5, **Selenide**, **REST Assured**, Swagger, **Docker**, **Kubernetes**, Helm, Prometheus, Grafana, Elasticsearch, Kibana, Bash, Git, Allure, Telegram
+- [Project 2](https://github.com/Polishevskyi/kotlin_mobile_polishevskyi_automatization): Mobile Testing: Kotlin, Maven, TestNG, **Appium**, Selenium, Javafaker, Allure.
+- [Project 3](https://github.com/Polishevskyi/crazy-tests): Scripts Testing: Java, Maven, JUnit 5, **Bash**, macOS, Linux.
 
 ## Let's Connect!
 
