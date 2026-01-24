@@ -52,7 +52,7 @@ My expertise spans the full testing spectrum: **native mobile apps** (Appium, Es
 - **API Testing** - Playwright API Client with Zod schema validation and Faker for test data
 - **Web Testing** - Playwright across 3 browsers (Chromium, Firefox, WebKit) × 3 viewports (9 configurations)
 - **Mobile Testing** - WebdriverIO + Appium for Android & iOS (Local Appium Server + BrowserStack Cloud)
-- **Parallel Execution** - Playwright and Mocha for execution and configurable test suites
+- **Parallel Execution** - Playwright and WebdriverIO for execution and configurable test suites
 - **Configuration** - dotenv for environment variables with type-safe configs
 - **Reporting** - Allure reports with automatic GitHub Pages deployment and Telegram notifications
 - **CI/CD** - GitHub Actions workflows for API, Web, Mobile, and All tests with matrix strategy
