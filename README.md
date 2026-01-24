@@ -15,13 +15,14 @@ My expertise spans the full testing spectrum: **native mobile apps** (Appium, Es
 
 🔧 **Stack:** Java, Maven, TestNG, Selenide, REST Assured, Appium, Lombok, Jackson, AssertJ, Allure, GitHub Actions, Owner, BrowserStack, JavaFaker, WebDriverManager, Spotless, Telegram  
 ✨ **Features:**
-- API Testing with REST Assured
-- Web Testing with Selenide
-- Mobile Testing for Android & iOS (Local + BrowserStack Cloud)
-- Parallel execution with TestNG
-- Allure reporting with GitHub Pages deployment
-- CI/CD with GitHub Actions
-- Code formatting with Spotless
+- **API Testing** - REST Assured with Jackson for JSON serialization, model validation with AssertJ
+- **Web Testing** - Selenide with WebDriverManager for cross-browser execution
+- **Mobile Testing** - Appium for Android & iOS (Local Appium Server + BrowserStack Cloud)
+- **Test Data Management** - JavaFaker for realistic test data generation, Owner for configuration
+- **Parallel Execution** - TestNG with configurable thread pools and test suites
+- **Reporting** - Allure reports with automatic GitHub Pages deployment and Telegram notifications
+- **CI/CD** - GitHub Actions workflows for API, Web, Mobile, and All tests
+- **Code Quality** - Spotless for formatting, Lombok for boilerplate reduction
 
 [![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://www.oracle.com/java/)
 [![Maven](https://img.shields.io/badge/Maven-3.6+-blue.svg)](https://maven.apache.org/)
@@ -43,18 +44,19 @@ My expertise spans the full testing spectrum: **native mobile apps** (Appium, Es
 
 ---
 
-### 📱 [TypeScript Test Automation Framework](https://github.com/Polishevskyi/typescript_framework)
+### 🔷 [TypeScript Test Automation Framework](https://github.com/Polishevskyi/typescript_framework)
 **Comprehensive automation framework for Mobile, Web & API testing**
 
 🔧 **Stack:** TypeScript, Playwright, Appium, Mocha, WebdriverIO, Zod, Faker, Allure, GitHub Actions, BrowserStack, ESLint, Prettier, Husky, dotenv, Telegram  
 ✨ **Features:**
-- API Testing with Playwright API Client
-- Web Testing across 3 browsers × 3 viewports (9 configurations)
-- Mobile Testing for Android & iOS (Local + BrowserStack Cloud)
-- Parallel execution with 5 workers
-- Allure reporting with GitHub Pages deployment
-- CI/CD with GitHub Actions
-- Code quality with ESLint, Prettier, Husky
+- **API Testing** - Playwright API Client with Zod schema validation and Faker for test data
+- **Web Testing** - Playwright across 3 browsers (Chromium, Firefox, WebKit) × 3 viewports (9 configurations)
+- **Mobile Testing** - WebdriverIO + Appium for Android & iOS (Local Appium Server + BrowserStack Cloud)
+- **Parallel Execution** - Playwright and Mocha for execution and configurable test suites
+- **Configuration** - dotenv for environment variables with type-safe configs
+- **Reporting** - Allure reports with automatic GitHub Pages deployment and Telegram notifications
+- **CI/CD** - GitHub Actions workflows for API, Web, Mobile, and All tests with matrix strategy
+- **Code Quality** - ESLint + Prettier for code consistency, Husky for pre-commit hooks
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5-blue.svg)](https://www.typescriptlang.org/)
 [![Playwright](https://img.shields.io/badge/Playwright-1.48.0-green.svg)](https://playwright.dev/)
