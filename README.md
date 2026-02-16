@@ -4,7 +4,7 @@
 
 I'm passionate about building **robust mobile test automation frameworks** and delivering high-quality software through comprehensive testing strategies. With **5+ years of experience** in mobile automation testing across **Android & iOS platforms**, I specialize in architecting and implementing **enterprise-grade test frameworks** using **Java, Kotlin, Swift, JavaScript, and TypeScript**.
 
-My expertise spans the full testing spectrum: **native mobile apps** (Appium, Espresso, XCUITest, Detox), **REST API testing** (REST Assured), and **web automation** (Selenium, Playwright, WebdriverIO). I excel at integrating test automation into **CI/CD pipelines** (GitHub Actions, Jenkins, GitLab CI), implementing **cloud testing solutions** (BrowserStack), and establishing **monitoring & reporting** systems (Allure, Sentry, Datadog) for enterprise applications.
+My expertise spans the full testing spectrum: **native mobile apps** (Appium, Espresso, XCUITest, WebdriverIO, Detox), **REST API testing** (REST Assured), and **web automation** (Selenium, Playwright). I excel at integrating test automation into **CI/CD pipelines** (GitHub Actions, Jenkins, GitLab CI), implementing **cloud testing solutions** (BrowserStack), and establishing **monitoring & reporting** systems (Allure, Sentry, Datadog) for enterprise applications.
 
 ---
 
@@ -89,13 +89,13 @@ My expertise spans the full testing spectrum: **native mobile apps** (Appium, Es
 ![Appium](https://img.shields.io/badge/Appium-663399?style=for-the-badge&logo=appium&logoColor=white)
 ![Espresso](https://img.shields.io/badge/Espresso-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![XCUITest](https://img.shields.io/badge/XCUITest-147EFB?style=for-the-badge&logo=apple&logoColor=white)
+![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)
 ![Detox](https://img.shields.io/badge/Detox-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### Web & API Testing
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Selenide](https://img.shields.io/badge/Selenide-1F8B4C?style=for-the-badge&logo=selenium&logoColor=white)
-![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)
 ![REST Assured](https://img.shields.io/badge/REST_Assured-5BA745?style=for-the-badge&logo=rest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -166,7 +166,7 @@ My expertise spans the full testing spectrum: **native mobile apps** (Appium, Es
 
 **CI/CD & DevOps** • GitHub Actions, Jenkins, GitLab CI • Cloud testing platforms (BrowserStack, Selenoid) • Docker containerization
 
-**Languages & Tech Stack** • Java, Kotlin, Swift, TypeScript • TestNG, JUnit, Mocha • Maven, Gradle, npm
+**Languages & Tech Stack** • Java, Kotlin, Swift, JavaScript, TypeScript • TestNG, JUnit, Mocha • Maven, Gradle, npm
 
 **Quality Engineering** • Test strategy & planning • Agile/Scrum methodologies • Code review & mentoring
 
