@@ -11,7 +11,7 @@ My expertise spans the full testing spectrum: **native mobile apps** (Appium, De
 ## 🎯 Featured Projects
 
 ### ☕ [Java Test Automation Framework](https://github.com/Polishevskyi/java_framework)
-**Enterprise-grade automation framework for Mobile, Web & API testing**
+**Mobile, Web & API test automation framework built with Java, Appium, Selenide, and REST Assured**
 
 🔧 **Stack:** Java, Maven, TestNG, Selenide, REST Assured, Appium, Lombok, Jackson, AssertJ, Allure, GitHub Actions, Owner, BrowserStack, JavaFaker, WebDriverManager, Spotless, Telegram  
 ✨ **Features:**
@@ -45,7 +45,7 @@ My expertise spans the full testing spectrum: **native mobile apps** (Appium, De
 ---
 
 ### 🔷 [TypeScript Test Automation Framework](https://github.com/Polishevskyi/typescript_framework)
-**Comprehensive automation framework for Mobile, Web & API testing**
+**Mobile, Web & API test automation framework built with TypeScript, Appium, WebdriverIO, and Playwright**
 
 🔧 **Stack:** TypeScript, Playwright, Appium, Mocha, WebdriverIO, Zod, Faker, Allure, GitHub Actions, BrowserStack, ESLint, Prettier, Husky, dotenv, Telegram  
 ✨ **Features:**
