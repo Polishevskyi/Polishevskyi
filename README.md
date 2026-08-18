@@ -2,7 +2,7 @@
 
 ### 🚀 Senior Mobile QA Automation Engineer | 5+ Years Experience
 
-I'm passionate about building **robust mobile test automation frameworks** and delivering high-quality software through comprehensive testing strategies. With **5+ years of experience** in mobile automation testing across **Android & iOS platforms**, I specialize in architecting and implementing **enterprise-grade test frameworks** using **Java, TypeScript, and JavaScript**.
+I'm passionate about building **robust mobile test automation frameworks** and delivering high-quality software through comprehensive testing strategies. With **5+ years of experience** in mobile automation testing across **Android & iOS platforms**, I specialize in architecting and implementing **enterprise-grade test frameworks** using **Java and TypeScript**.
 
 My expertise spans the full testing spectrum: **native mobile apps** (Appium, Detox, WebdriverIO), **REST API testing** (REST Assured), and **web automation** (Selenide, Playwright). I excel at integrating test automation into **CI/CD pipelines** (GitHub Actions, GitLab CI, Bitrise), implementing **cloud testing solutions** (BrowserStack), and establishing **reporting** systems (Allure, TestRail) for enterprise applications.
 
